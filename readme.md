@@ -1,7 +1,6 @@
-Go to project folder in Terminal
+Open Source implementation of datagridapp.com in Swift.
 
-// create structure and build
-'swift build --init'
+The app is currently in early pre alpha version not suitable for production.
 
-// build only
-'swift build
+// download repository and execute in terminal:
+swift build
